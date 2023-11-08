@@ -1,0 +1,8 @@
+Fazer o fetch doq tem no carrinho 
+transformar os valores em inteiros
+fazer a soma.
+
+fazer o fetch de limpar o carrinho
+
+fazer o logOut(redirecionar para o login)
+fazer o redirecionamento da home para o carrinho
